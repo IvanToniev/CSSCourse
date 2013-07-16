@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\btv\btv\bin\btv.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\btv\btv\bin\btv.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\btv\btv\obj\Debug\btv.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\btv\btv\obj\Debug\btv.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\btv\btv\obj\Debug\btv.pdb

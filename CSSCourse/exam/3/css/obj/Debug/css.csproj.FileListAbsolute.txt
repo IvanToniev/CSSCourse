@@ -1,0 +1,5 @@
+D:\Projects\exam\css\css\bin\css.dll
+D:\Projects\exam\css\css\bin\css.pdb
+D:\Projects\exam\css\css\obj\Debug\css.csprojResolveAssemblyReference.cache
+D:\Projects\exam\css\css\obj\Debug\css.dll
+D:\Projects\exam\css\css\obj\Debug\css.pdb

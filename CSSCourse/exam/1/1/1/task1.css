@@ -1,0 +1,32 @@
+﻿body {
+  margin: 0;
+  padding: 0;
+  width: 960px;
+  height: 600px;
+}
+body #wrapper .msg-bar {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+body #wrapper .msg-bar li .msg-bar-content {
+  display: none;
+}
+body #wrapper .msg-bar:first-child {
+  margin-left: 55px;
+}
+body #wrapper .msg-bar a {
+  display: inline;
+  float: left;
+  text-align: center;
+  padding-top: 4px;
+  width: 116px;
+  height: 26px;
+  border: 1px solid black;
+  text-decoration: none;
+  color: #0094FB;
+  margin-top: 210px;
+  font-size: 16px;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'DejaVu Sans Condensed', sans-serif;
+  background: -webkit-linear-gradient(top, #aaffef 0%, #13ffd2 100%);
+}

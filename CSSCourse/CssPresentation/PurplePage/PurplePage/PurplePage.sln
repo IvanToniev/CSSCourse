@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurplePage", "PurplePage\PurplePage.csproj", "{2B33EFE6-1F5E-4412-97EC-3E1134E7343D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{28DBEA7A-37AD-417A-A418-664CEC89D96C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\2. Homework\2. homework.css = ..\..\2. Homework\2. homework.css
+		..\..\2. Homework\2. homework.html = ..\..\2. Homework\2. homework.html
+		..\..\2. Homework\Homework-2.png = ..\..\2. Homework\Homework-2.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B33EFE6-1F5E-4412-97EC-3E1134E7343D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B33EFE6-1F5E-4412-97EC-3E1134E7343D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B33EFE6-1F5E-4412-97EC-3E1134E7343D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B33EFE6-1F5E-4412-97EC-3E1134E7343D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿body
+{
+    background-color:#a9a9a9;
+}
+h1 {
+color:white;
+text-align:center;
+}
+a {
+    text-decoration:none;
+}
+.current {
+background-color:#d3d3d3;
+}
+
+footer a {
+color:black;
+}
+header a {
+color:white;
+}
+ul {
+    list-style: none;
+    text-align: center;
+}

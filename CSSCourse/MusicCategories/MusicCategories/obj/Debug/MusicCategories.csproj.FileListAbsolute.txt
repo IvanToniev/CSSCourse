@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\MusicCategories\MusicCategories\bin\MusicCategories.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\MusicCategories\MusicCategories\bin\MusicCategories.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\MusicCategories\MusicCategories\obj\Debug\MusicCategories.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\MusicCategories\MusicCategories\obj\Debug\MusicCategories.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\MusicCategories\MusicCategories\obj\Debug\MusicCategories.pdb

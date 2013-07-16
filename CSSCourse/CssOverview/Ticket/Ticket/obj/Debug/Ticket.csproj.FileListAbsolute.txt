@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Ticket\Ticket\bin\FirstCssHomework.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Ticket\Ticket\bin\FirstCssHomework.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Ticket\Ticket\obj\Debug\Ticket.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Ticket\Ticket\obj\Debug\FirstCssHomework.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Ticket\Ticket\obj\Debug\FirstCssHomework.pdb

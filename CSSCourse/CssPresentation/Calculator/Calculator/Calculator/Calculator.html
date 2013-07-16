@@ -1,0 +1,145 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="top"></div>
+    <div id="wrapper">
+        <form>
+            <div id="inputD">
+            <input type="text"/>
+            </div>
+            <div id="tableD">
+                <table id="bits">
+                    <tr>
+                        <td>0000</td>
+                        <td>0000</td>
+                        <td>0000</td>
+                        <td>0000</td>
+                        <td>0000</td>
+                        <td>0000</td>
+                        <td>0000</td>
+                        <td>0000</td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">63</td>
+                        <td colspan="3">47</td>
+                        <td class="lastBits">32</td>
+                    </tr>
+                    <tr>
+                        <td>0000</td>
+                        <td>0000</td>
+                        <td>1000</td>
+                        <td>0111</td>
+                        <td>0001</td>
+                        <td>1011</td>
+                        <td>1011</td>
+                        <td>0111</td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">31</td>
+                        <td colspan="3">15</td>
+                        <td class="lastBits">0</td>
+                    </tr>
+                </table>
+            </div>
+            <div id="buttonsD">
+                <table>
+                    <tr class="butRows">
+                        <td><button class="inactive"></button></td>
+                        <td><button class="buttons">Mod</button></td>
+                        <td><button class="inactive">A</button></td>
+                        <td><button class="buttons">MC</button></td>
+                        <td><button class="buttons">MR</button></td>
+                        <td><button class="buttons">MS</button></td>
+                        <td><button class="buttons">M+</button></td>
+                        <td><button class="buttons">M-</button></td>
+                    </tr>   
+                    <tr class="butRows">
+                        <td><button class="buttons">(</button></td>
+                        <td><button class="buttons">)</button></td>
+                        <td><button class="inactive">B</button></td>
+                        <td><button class="buttons">←</button></td>
+                        <td><button class="buttons">CE</button></td>
+                        <td><button class="buttons">C</button></td>
+                        <td><button class="buttons">±</button></td>
+                        <td><button class="inactive">√</button></td>
+                    </tr>  
+                    <tr class="butRows">
+                        <td><button class="buttons">RoL</button></td>
+                        <td><button class="buttons">RoR</button></td>
+                        <td><button class="inactive">C</button></td>
+                        <td><button class="buttonsNums">7</button></td>
+                        <td><button class="buttonsNums">8</button></td>
+                        <td><button class="buttonsNums">9</button></td>
+                        <td><button class="buttons">/</button></td>
+                        <td><button class="inactive">%</button></td>
+                    </tr> 
+                    <tr class="butRows">  
+                        <td><button class="buttons">Or</button></td>
+                        <td><button class="buttons">Xor</button></td>
+                        <td><button class="inactive">D</button></td>
+                        <td><button class="buttonsNums">4</button></td>
+                        <td><button class="buttonsNums">5</button></td>
+                        <td><button class="buttonsNums">6</button></td>
+                        <td><button class="buttons">*</button></td>
+                        <td><button class="inactive">1/x</button></td>
+                    </tr>   
+                    <tr class="butRows">    
+                        <td><button class="buttons">Lsh</button></td>
+                        <td><button class="buttons">Rsh</button></td>
+                        <td><button class="inactive">E</button></td>
+                        <td><button class="buttonsNums">1</button></td>
+                        <td><button class="buttonsNums">2</button></td>
+                        <td><button class="buttonsNums">3</button></td>
+                        <td><button class="buttons">-</button></td>
+                        <td rowspan="2"><button id="equals" class="buttons">=</button></td>
+                    </tr>   
+                    <tr class="butRows">    
+                        <td><button class="buttons">Not</button></td>
+                        <td><button class="buttons">And</button></td>
+                        <td><button class="inactive">F</button></td>
+                        <td colspan="2"><button id="zero" class="buttonsNums">0</button></td>
+                        <td><button class="inactive">.</button></td>
+                        <td><button class="buttons">+</button></td>                   
+                    </tr>
+                </table>
+            </div>
+            <div id="firstRadios">
+                <table>
+                    <tr class="radios">
+                        <td colspan="2"><img src="radio.jpg" width="10" height="10"/><span>Hex</span></td>
+                    </tr>
+                    <tr class="radios">
+                        <td colspan="2"><img src="filled-radio.jpg" width="10" height="10"/><span>Dec</span></td>
+                    </tr>
+                    <tr class="radios">
+                        <td colspan="2"><img src="radio.jpg" width="10" height="10"/><span>Oct</span></td>
+                    </tr>
+                    <tr class="radios">
+                        <td colspan="2"><img src="radio.jpg" width="10" height="10"/><span style="padding-bottom:3px;">Bin</span></td>
+                    </tr>
+                </table>
+            </div>
+            <div id="secondRadios">
+                <table>
+                    <tr class="radios">
+                        <td colspan="2"><img src="filled-radio.jpg" width="10" height="10"/><span>Qword</span></td>
+                    </tr>
+                    <tr class="radios">
+                        <td colspan="2"><img src="radio.jpg" width="10" height="10"/><span>Dword</span></td>
+                    </tr>
+                    <tr class="radios">
+                        <td colspan="2"><img src="radio.jpg" width="10" height="10"/><span>Word</span></td>
+                    </tr>
+                    <tr class="radios">
+                        <td colspan="2"><img src="radio.jpg" width="10" height="10"/><span style="padding-bottom:3px;">Byte</span></td>
+                    </tr>
+                </table>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

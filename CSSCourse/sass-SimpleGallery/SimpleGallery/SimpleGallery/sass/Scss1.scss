@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    #wrapper {
+        border: 1px solid black;
+        width: 1024px;
+        height: 650px;
+        margin: 0;
+        padding: 0;
+        position: relative;
+
+
+
+        & > #smallOnes {
+            margin: 0 auto;
+            margin-top: 10px;
+            margin-left: 13px;
+            width: 1000px;
+            height: 130px;
+            display: inline-block;
+            float: left;
+            padding: 0;
+
+
+
+            &:target.thumbnail {
+                opacity: 1;
+            }
+
+            .photo {
+                z-index: 1;
+                opacity: 1;
+
+            }
+
+            & label {
+                display: inline-block;
+                margin: 1px;
+                padding: 0;
+            }
+
+                & label img {
+                    width: 160px;
+                    height: 130px;
+                    opacity: .5;
+
+                    &:hover {
+                        opacity: 1;
+                    }
+                }
+        }
+
+        & #bigOnes {
+            postion: relative;
+
+            & input[type="radio"] {
+                display: none;
+
+
+                &:checked + .image {
+                    opacity: 1;
+
+                }
+            }
+        }
+
+        .image {
+			margin-top:220px;
+			margin-left:140px;
+            width: 500px;
+            height: 360px;
+            opacity: 0;
+            display: inline-block;
+            position: absolute;
+            left: 106px;
+			border:1px solid black;
+			
+        }
+    }
+}

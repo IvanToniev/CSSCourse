@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\sass\1\less\less\bin\less.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\sass\1\less\less\bin\less.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\sass\1\less\less\obj\Debug\less.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\sass\1\less\less\obj\Debug\less.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\sass\1\less\less\obj\Debug\less.pdb

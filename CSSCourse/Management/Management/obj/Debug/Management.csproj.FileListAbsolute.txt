@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Management\Management\bin\Management.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Management\Management\bin\Management.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Management\Management\obj\Debug\Management.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Management\Management\obj\Debug\Management.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Management\Management\obj\Debug\Management.pdb

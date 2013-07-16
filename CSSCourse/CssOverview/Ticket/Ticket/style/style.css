@@ -1,0 +1,26 @@
+﻿body {   
+    background-color:#595959;
+}
+thead th {
+    font-family:Arial;
+    color:#c2c0bd;
+}
+.yellowClass {
+color:#fff2b3;
+}
+.greyClass {
+color:#c2c1c0;
+}
+#orangeTd {
+    color:#d86739;
+}
+#redTd {
+color:#f61329;
+}
+td {
+color:#fffcfa;
+}
+tr td:first-child{
+    font-family:Arial;
+    font-style:italic;
+}

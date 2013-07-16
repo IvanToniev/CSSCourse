@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\sass\1\sass\sass\bin\sass.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\sass\1\sass\sass\bin\sass.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\sass\1\sass\sass\obj\Debug\sass.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\sass\1\sass\sass\obj\Debug\sass.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\sass\1\sass\sass\obj\Debug\sass.pdb
